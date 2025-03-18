@@ -1,9 +1,11 @@
-## Hi there, I'm Yan Naing Aung! 👋
+👋 Hello! Mingalarbar (မင်္ဂလာပါ)! 
+
+I'm Yan, an AI Engineer and Data Scientist. I turn complex data into powerful AI solutions and draw causal inferences leveraging machine learning algorithms.
 
 ### 🔭 What I'm Currently Working On:
 - Building a **Retrieval Augmented Generation (RAG)** system designed to handle **1000+ daily queries**.
 
-### 👯 I'm Looking to Collaborate On:
+### 🤝 I'm Looking to Collaborate On:
 - Projects involving NLP, Generative AI, or scalable ML systems
 - Open-source initiatives related to AI tools and libraries
 
@@ -12,8 +14,8 @@
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/yannaingaung/)
 
 ### ⚡ Fun Fact:
-- Average weekend golfer trying to break 80
-- Beginner at Brazilian Jiu-Jitsu
+- Weekend golfer aiming to break 80 🏌️‍♂️
+- Brazilian Jiu-Jitsu beginner 🥋
 
 ---
 
