@@ -1,4 +1,4 @@
-👋 Hello! Mingalarbar (မင်္ဂလာပါ)! 
+## 👋 Hello! Mingalarbar (မင်္ဂလာပါ)! 
 
 I'm Yan, an AI Engineer and Data Scientist. I turn complex data into powerful AI solutions and draw causal inferences leveraging machine learning algorithms.
 
