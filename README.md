@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there, I'm Yan Naing Aung! 👋
 
-<!--
-**ynaung24/ynaung24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 What I'm Currently Working On:
+- Building a **Retrieval Augmented Generation (RAG)** system designed to handle **1000+ daily queries**.
 
-Here are some ideas to get you started:
+### 🌱 What I'm Learning:
+- Machine Learning Algorithms
+- Advanced **Deep Learning Algorithms**
+- **Machine Learning Operations (MLOps)** and best practices for scalable deployments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 I'm Looking to Collaborate On:
+- Projects involving NLP, Generative AI, or scalable ML systems
+- Open-source initiatives related to AI tools and libraries
+
+### 🤔 I'm Looking for Help With:
+- Optimizing retrieval pipelines and improving response accuracy in RAG systems
+- Efficient ML model deployment strategies
+
+### 💬 Ask Me About:
+- Natural Language Processing (NLP)
+- Retrieval Augmented Generation
+- Machine Learning and AI deployments
+
+### 📫 How to Reach Me:
+- [Email me](mailto:jeffaung@gmail.com)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/yannaingaung/)
+
+### ⚡ Fun Fact:
+- Average weekend golfer trying to break 80
+- Beginner at Brazilian Jiu-Jitsu
+
+---
+
+Let's connect and build something amazing together! 🚀
+
