@@ -1,6 +1,6 @@
 ## 👋 Hello! Mingalarbar (မင်္ဂလာပါ)! 
 
-I'm Yan, an AI Engineer and a Data Scientist. I am originally from Yangon, Myanmar, but I've been in the US since 2017. I turn complex data into powerful AI solutions and draw causal inferences leveraging machine learning algorithms.
+I'm Yan, an AI Engineer and Data Scientist. I am originally from Yangon, Myanmar, but I've been in the US since 2017. I turn complex data into powerful AI solutions and draw causal inferences leveraging machine learning algorithms.
 
 ### 🔭 What I'm Mainly Working On:
 - Building a **Retrieval Augmented Generation (RAG)** system designed to handle **1000+ daily queries**.
